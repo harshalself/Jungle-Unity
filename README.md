@@ -56,7 +56,7 @@ Go to the project directory
 Run the Game
 
 ```bash
-  run Jungle.exe
+  start Jungle.exe
 ```
 
 
